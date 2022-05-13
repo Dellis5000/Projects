@@ -1,0 +1,12 @@
+C:\Users\Delli\OneDrive\Documents\AIFinalProject\AIFinalProject\bin\Release\netcoreapp2.1\AIFinalProject.deps.json
+C:\Users\Delli\OneDrive\Documents\AIFinalProject\AIFinalProject\bin\Release\netcoreapp2.1\AIFinalProject.runtimeconfig.json
+C:\Users\Delli\OneDrive\Documents\AIFinalProject\AIFinalProject\bin\Release\netcoreapp2.1\AIFinalProject.runtimeconfig.dev.json
+C:\Users\Delli\OneDrive\Documents\AIFinalProject\AIFinalProject\bin\Release\netcoreapp2.1\AIFinalProject.dll
+C:\Users\Delli\OneDrive\Documents\AIFinalProject\AIFinalProject\bin\Release\netcoreapp2.1\AIFinalProject.pdb
+C:\Users\Delli\OneDrive\Documents\AIFinalProject\AIFinalProject\obj\Release\netcoreapp2.1\AIFinalProject.csprojAssemblyReference.cache
+C:\Users\Delli\OneDrive\Documents\AIFinalProject\AIFinalProject\obj\Release\netcoreapp2.1\AIFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Delli\OneDrive\Documents\AIFinalProject\AIFinalProject\obj\Release\netcoreapp2.1\AIFinalProject.AssemblyInfoInputs.cache
+C:\Users\Delli\OneDrive\Documents\AIFinalProject\AIFinalProject\obj\Release\netcoreapp2.1\AIFinalProject.AssemblyInfo.cs
+C:\Users\Delli\OneDrive\Documents\AIFinalProject\AIFinalProject\obj\Release\netcoreapp2.1\AIFinalProject.dll
+C:\Users\Delli\OneDrive\Documents\AIFinalProject\AIFinalProject\obj\Release\netcoreapp2.1\AIFinalProject.pdb
+C:\Users\Delli\OneDrive\Documents\AIFinalProject\AIFinalProject\obj\Release\netcoreapp2.1\AIFinalProject.genruntimeconfig.cache
